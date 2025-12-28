@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModuleFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <UiMod name="Edron" version="0.0.1" date="26/11/2025">
+  <UiMod name="Edron" version="0.0.2" date="26/11/2025">
     <Author name="Xispe" email="xptavares@gmail.com" />
     <Description text="
       Tracks healing and damage received per fight and per player.
